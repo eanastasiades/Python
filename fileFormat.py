@@ -1,6 +1,6 @@
 import  os, glob
 
-basepath = '/home/vangs/Pictures/Sim-Ma/2014/'
+basepath = '/home/Pictures/2014/'
 os.chdir(basepath)
 count = 1
 
